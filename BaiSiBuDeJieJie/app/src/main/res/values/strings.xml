@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="recomm_prefecture_video_erro">视频播放错误，请重试!</string>
+
+</resources>
